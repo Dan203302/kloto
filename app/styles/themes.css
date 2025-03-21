@@ -1,0 +1,17 @@
+:root {
+  --primary: #3936CC;
+  --secondary: #5552E8;
+  --accent: #FB8C00;
+  --accent-foreground: #ffffff;
+  --background: #ffffff;
+  --foreground: #000000;
+}
+
+[data-theme='dark'] {
+  --primary: #5552E8;
+  --secondary: #3936CC;
+  --accent: #f57c00;
+  --accent-foreground: #ffffff;
+  --background: #1a1a1a;
+  --foreground: #ffffff;
+} 
